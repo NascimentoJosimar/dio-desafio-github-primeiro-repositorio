@@ -1,0 +1,23 @@
+Link para download do Git: https://git-scm.com/downloads
+
+- O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados. O Shell é o padrão popular no Linux e no macOS. O Git Bash é o pacote que instala o Bash, alguns utilitários de bash comuns e o Git nos sistemas operacionais Windows.
+
+- Principais comandos:
+	>> Listar = dir
+
+	>> Navegar entre pastas = cd /
+	>> Navegar em uma pasta específica = cd + (nome da pasta)
+
+	>> Retroceder nível = cd ..
+
+	>> Limpar o terminal = cls
+
+	>> Autocompletar = "Tab"
+
+	>> Criar pasta = mkdir + (Nome pasta)
+	>> Criar Arquivo = echo + (Nome arquivo)
+
+	>> Excluir conteúdo da Pasta = del
+	>> Excluir repositório e seu conteúdo = rmdir + (Nome pasta/diretório) /S /Q
+
+	>> Históricos dos comandos executados = seta pra cima
